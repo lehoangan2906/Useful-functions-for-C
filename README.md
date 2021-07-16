@@ -1,2 +1,2 @@
-# Useful-function-for-C
+# Useful-functions-for-C
 Useful Functions for C
